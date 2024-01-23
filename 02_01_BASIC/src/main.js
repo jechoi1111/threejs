@@ -1,6 +1,8 @@
-// import example01 from "./ex01";
-// import example02 from "./ex02";
-// import example03 from "./ex03";
-import example04 from "./ex04";
+// import example from "./ex01";
+// import example from "./ex02";
+// import example from "./ex03";
+// import example from "./ex04";
+// import example from './ex05';
+import example from './ex06';
 
-example04()
+example()
